@@ -1,10 +1,8 @@
 # Importing few modules
 import sklearn
-from sklearn.utils import shuffle
 from sklearn.neighbors import KNeighborsClassifier
 import pandas as pd
-import numpy as np
-from sklearn import linear_model, preprocessing
+from sklearn import preprocessing
 
 # Loading the data. Here I am using the car.data dataset, provided in UCI Machine Learning Repository
 # You can download the file from my github repo for now that stands beside this file
