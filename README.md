@@ -1,5 +1,5 @@
 # knnMachineLearningAlgorithm
-My first KNN Machine Learning Algorithm using sklearn.
+Car safety prediction using KNN
 
 Modules used: 
 1: Pandas
